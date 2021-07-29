@@ -1,0 +1,67 @@
+{
+	"basics": {
+		"name": "Abhinav Jain",
+		"label": "Student",
+		"picture": "https://avatars.githubusercontent.com/u/86544540?s=400&u=7725a1123585b1c84a7cbf5aa33408ff90ead117&v=4",
+		"email": "2020kucp1069@iiitkota.ac.in",
+		"phone": "+91-6375093394",
+		"website": "https://abhhinavjain.github.io/Abhinav-Jain-Resume/",
+		"summary": " From a young age, I’ve always had a sense of motivation and passion driving me forward. Whether it’s exploring unique opportunities, learning additional skills, or meeting new people, I bring these values to every experience throughout my life on a personal and professional level. To learn more about me, keep exploring my site or reach out directly. ",
+		"location": {
+			"address": "1/30,Housuing Board",
+			"postalCode": "322021",
+			"city": "Sawai Madhopur",
+			"countryCode": "India",
+			"region": "Rajasthan"
+		},
+		"profiles": [{
+				"network": "Twitter",
+				"username": "Abhinav35334644",
+				"url": "https://twitter.com/Abhinav35334644"
+			},
+			{
+				"network": "Github",
+				"username": "AbhhinavJain",
+				"url": "https://github.com/AbhhinavJain"
+			},
+			{
+				"network": "linkedin",
+				"username": "abhinav-jain-84579320a",
+				"url": "https://www.linkedin.com/in/abhinav-jain-84579320a/"
+			},
+			{
+				"network": "Instagram",
+				"username": "th.e_abi.nv_zn",
+				"url": "https://www.instagram.com/th.e_abi.nv_zn/"
+			}
+		]
+	},
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"awards": [{
+		"title": "State Player of Badminton",
+		"date": "2016-08-21"
+	}],
+	"skills": [{
+		"level": "Beginner",
+		"keywords": ["HTML", "CSS", "Javascript", "C/C++", "Git","Python","PHP","MySql"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Cricket", "Badminton"]
+
+	},
+    {
+        "name":"Singing",
+        "keywords":["Music"]
+    }
+      
+    ],
+	"references": []
+}
